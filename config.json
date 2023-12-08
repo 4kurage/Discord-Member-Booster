@@ -1,6 +1,6 @@
 {
-    "captcha_key": "", 
-    "invite": "",
+    "captcha_key":P0_eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwYXNza2V5IjoidU45RFMwQ1krU1hPRW1lR0pSNzRsMU9qVFQ0SE5FY0dKOXdDSHlOSTM5MExT... "", 
+    "invite":Fsdxr4S6bz",
     "threads": 69,
     "proxy_scraper": "y",
 
@@ -8,5 +8,5 @@
 
     "join_voice": "n",
     "channel_id": "",
-    "server_id": ""
+    "server_id":1174457476041682964 ""
 }
